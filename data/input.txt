@@ -1,0 +1,5 @@
+# Формат: circle;радиус или rectangle;сторонаA;сторонаB
+circle;2.5
+rectangle;3;4
+circle;1
+rectangle;5.5;2.2
